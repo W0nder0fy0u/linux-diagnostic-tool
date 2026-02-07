@@ -305,7 +305,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 **Subham Tiwari**
 - GitHub: [@W0nder0fy0u](https://github.com/W0nder0fy0u)
-- Email: [](mailto:)
+- Email: [subhamt958@gmail.com](mailto:subhamt958@gmail.com)
 
 ## 🙏 Acknowledgments
 
